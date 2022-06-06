@@ -1,4 +1,4 @@
-# GenelTekrar
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
 
@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Ekran Görüntüsü (7)](https://user-images.githubusercontent.com/63349869/172254539-3b5fc1b8-50ba-4d06-b849-45c7e83a7fce.png)
+![Ekran Görüntüsü (8)](https://user-images.githubusercontent.com/63349869/172254552-d77da049-5be2-4cc4-b2dd-068122be8b91.png)
+![Ekran Görüntüsü (9)](https://user-images.githubusercontent.com/63349869/172254555-858ebe3b-cba7-47be-be29-c09a13ac4af1.png)
+![Ekran Görüntüsü (11)](https://user-images.githubusercontent.com/63349869/172254562-61d06f68-2de2-468f-a22a-15a4f79334cd.png)
+![Ekran Görüntüsü (12)](https://user-images.githubusercontent.com/63349869/172254568-2be7ae0a-44a9-434d-a371-2ce51929b360.png)
