@@ -1,0 +1,8 @@
+<span class="p-input-icon-left m-2 mb-4">
+    <i class="pi pi-search"></i>
+    <input type="text" pInputText [(ngModel)]="filterText" placeholder="Kategori Araması">         
+</span>
+
+
+
+<p-listbox [options]="categories | category:filterText" [(ngModel)]="selectedCategory" (click)="changeCategory()" optionLabel="name"></p-listbox>

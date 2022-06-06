@@ -1,0 +1,10 @@
+<h3>Yeni Kategori Ekle -Reactive</h3>
+ 
+<form [formGroup]="categoryAddForm" (ngSubmit)="add()" >
+<div class="form-group m-2">
+    <input type="text" id="name" formControlName="name" class="form-control" placeholder="Kategori adı giriniz">
+    <div class="alert alert-danger" *ngIf="categoryAddForm.get('name').hasError('required') && categoryAddForm.get('name').dirty"> Kategori Adı zorunludur</div>
+</div>
+
+<button type="submit"  class="btn btn-primary m-2"  [disabled]="categoryAddForm.invalid">Ekle</button>
+</form>
